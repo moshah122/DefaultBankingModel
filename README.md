@@ -1,0 +1,1 @@
+This is a machine learning model that predicts the frequency of customers default on a loan. Factors considered in the model include loan status, annual income, grade, etc. This project was made with Pandas and Scikit-Learn.
